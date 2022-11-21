@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-ou4p5b/static/css/main.82c5b65a.chunk.css",
-    "main.js": "https://.github.io/csb-ou4p5b/static/js/main.fbadc713.chunk.js",
-    "main.js.map": "https://.github.io/csb-ou4p5b/static/js/main.fbadc713.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-ou4p5b/static/js/runtime-main.3ae731b0.js",
-    "runtime-main.js.map": "https://.github.io/csb-ou4p5b/static/js/runtime-main.3ae731b0.js.map",
-    "static/js/2.324a2907.chunk.js": "https://.github.io/csb-ou4p5b/static/js/2.324a2907.chunk.js",
-    "static/js/2.324a2907.chunk.js.map": "https://.github.io/csb-ou4p5b/static/js/2.324a2907.chunk.js.map",
-    "index.html": "https://.github.io/csb-ou4p5b/index.html",
-    "static/css/main.82c5b65a.chunk.css.map": "https://.github.io/csb-ou4p5b/static/css/main.82c5b65a.chunk.css.map",
-    "static/js/2.324a2907.chunk.js.LICENSE.txt": "https://.github.io/csb-ou4p5b/static/js/2.324a2907.chunk.js.LICENSE.txt"
+    "main.css": "https://yoshihika.github.io/csb-ou4p5b/static/css/main.dd1d388d.chunk.css",
+    "main.js": "https://yoshihika.github.io/csb-ou4p5b/static/js/main.4d12eb13.chunk.js",
+    "main.js.map": "https://yoshihika.github.io/csb-ou4p5b/static/js/main.4d12eb13.chunk.js.map",
+    "runtime-main.js": "https://yoshihika.github.io/csb-ou4p5b/static/js/runtime-main.33860dd5.js",
+    "runtime-main.js.map": "https://yoshihika.github.io/csb-ou4p5b/static/js/runtime-main.33860dd5.js.map",
+    "static/js/2.324a2907.chunk.js": "https://yoshihika.github.io/csb-ou4p5b/static/js/2.324a2907.chunk.js",
+    "static/js/2.324a2907.chunk.js.map": "https://yoshihika.github.io/csb-ou4p5b/static/js/2.324a2907.chunk.js.map",
+    "index.html": "https://yoshihika.github.io/csb-ou4p5b/index.html",
+    "static/css/main.dd1d388d.chunk.css.map": "https://yoshihika.github.io/csb-ou4p5b/static/css/main.dd1d388d.chunk.css.map",
+    "static/js/2.324a2907.chunk.js.LICENSE.txt": "https://yoshihika.github.io/csb-ou4p5b/static/js/2.324a2907.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ae731b0.js",
+    "static/js/runtime-main.33860dd5.js",
     "static/js/2.324a2907.chunk.js",
-    "static/css/main.82c5b65a.chunk.css",
-    "static/js/main.fbadc713.chunk.js"
+    "static/css/main.dd1d388d.chunk.css",
+    "static/js/main.4d12eb13.chunk.js"
   ]
 }
